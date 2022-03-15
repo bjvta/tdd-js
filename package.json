@@ -1,0 +1,13 @@
+{
+  "name": "tdd-js",
+  "version": "1.0.0",
+  "description": "tdd",
+  "main": "index.js",
+  "repository": "git@github.com:bjvta/tdd-js.git",
+  "author": "Brandon Jason <bjvtamayo78@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "jasmine": "^4.0.2"
+  },
+  "scripts": { "test": "jasmine" }
+}
